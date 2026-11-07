@@ -1,0 +1,5 @@
+line,description,quantity,unit_price_usd,amount_usd
+1,"Kitchen workflow review, Oct 6-17 (hours)",12.5,150.00,1875.00
+2,Staff scheduling model and handover call (hours),6.25,150.00,937.50
+3,"On-site workshop, Oct 22, half day (fixed fee)",1,900.00,900.00
+4,"Mileage to client site, 84 miles",84,0.70,58.80

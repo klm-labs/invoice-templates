@@ -1,0 +1,6 @@
+line,description,quantity,unit_price_usd,amount_usd
+1,Trip charge,1,45.00,45.00
+2,Replace kitchen faucet (hours),1.5,75.00,112.50
+3,Drywall patch and paint (hours),2,75.00,150.00
+4,Re-hang sticking door (hours),0.75,75.00,56.25
+5,"Materials: compound, paint, shims",1,38.60,38.60
